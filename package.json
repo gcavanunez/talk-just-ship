@@ -1,5 +1,8 @@
 {
   "name": "just-ship-clean",
+  "author": {
+    "name": "Guillermo Cava"
+  },
   "private": true,
   "scripts": {
     "build": "slidev build",
