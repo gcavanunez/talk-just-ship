@@ -460,7 +460,7 @@ PMs: ca be chasing metrics and foot gunning dev
 
 <v-clicks>
 
-- We are builder
+- We are builders
 
 - Dev's are bad a identifying pit falls and valuing our time, time should be our friend
 
